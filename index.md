@@ -1,7 +1,7 @@
-##  El Clásico Archive
+#  El Clásico Archive
 
 
-A historic battle between Spain's biggest clubs
+##A historic battle between Spain's biggest clubs
 
 
 ## History and Meaning
