@@ -1,37 +1,39 @@
-##  The Madrid Archive 
+##  El Clásico Archive
 
-### Hala Madrid y Nadas
 
-To commemorate the many achievements of Real Madrid and it's impact on **modern football**
+A historic battle between Spain's biggest clubs
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## History and Meaning
 
-```markdown
-Syntax highlighted code block
+El Clasico is the term used to refer to football matches between Spain’s most famous and bitterest rivals: FC Barcelona and Real Madrid C.F. The two teams meet twice during a season, with an additional two times in the Copa del Rey, Champions League, and the Supercopa de España, and possibly in the UEFA Super Cup as well.
 
-# Header 1
-## Header 2
-### Header 3
+Through the El Clasico, every year the citizens of **Catalonia** (Barcelona is the capital) have proclaimed their independence from Spain. It is possibly the most-watched and talked-about fixture. The prestigious El Clasico started on **May 13, 1902**. The two teams have met each other in **228 competitive matches**. Real Madrid has a slight advantage with 92 wins over their rivals Barcelona with 89 wins. The remaining 48 encounters ended in a draw. However, if exhibition matches are included, Barcelona has the advantage with 108 wins over Real Madrid’s 96. Barcelona and Read Madrid **have won a combined 54 Spanish League Championships** and are arguably the two richest clubs in the sport.
 
-- Bulleted
-- List
+## Brief History of Both Clubs
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Record
+|Club| Wins| Draws| Losses|
+| ------------- | ------------- |  ------------- |-------------|
+| FC Barcelona | 115| 62| 163|
+| Real Madrid | 103|62 | 175|
 
-### Jekyll Themes
+## **Top Goalscorers**
+### Players in BOLD have retired
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rexrevre/rexrevre.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+| Player      | Club |  Goals| 
+| ------------- | ------------- |  ------------- |
+| Lionel Messi |  FC Barcelona |  26|
+| **Alfredo Di Stefano**  | Real Madrid| 18 |
+| Cristiano Ronaldo  | Real Madrid  | 18 |
+| **Raul Gonzalez**  | Real Madrid | 15 |
+| **Cesar Rodriguez** | FC Barcelona  | 14      |
+| **Francisco Gento** | Real Madrid |  14
+| **Ferenc Puskas** | Real Madrid | 14  |
+| **Santillana** | Real Madrid  | 12  |
+| Karim Benzema | Real Madrid  | 11 |
+| Luiz Suarez | FC Barcelona  | 11  |
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
