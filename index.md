@@ -16,8 +16,9 @@ Through the El Clasico, every year the citizens of **Catalonia** (Barcelona is t
 
 
 ## Record
-|Club| Wins| Draws| Losses|
-| ------------- | ------------- |  ------------- |-------------|
+
+| Club | Wins| Draws| Losses|
+| ------------- | ------------- | ------------- |-------------|
 | FC Barcelona | 115| 62| 163|
 | Real Madrid | 103|62 | 175|
 
