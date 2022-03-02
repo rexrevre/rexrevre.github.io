@@ -1,7 +1,7 @@
 #  El Clásico Archive
 
 
-## A historic battle between Spain's biggest clubs
+### A historic battle between Spain's biggest clubs
 
 
 ## History and Meaning
@@ -10,10 +10,19 @@ El Clasico is the term used to refer to football matches between Spain’s most 
 
 Through the El Clasico, every year the citizens of **Catalonia** (Barcelona is the capital) have proclaimed their independence from Spain. It is possibly the most-watched and talked-about fixture. The prestigious El Clasico started on **May 13, 1902**. The two teams have met each other in **228 competitive matches**. Real Madrid has a slight advantage with 92 wins over their rivals Barcelona with 89 wins. The remaining 48 encounters ended in a draw. However, if exhibition matches are included, Barcelona has the advantage with 108 wins over Real Madrid’s 96. Barcelona and Read Madrid **have won a combined 54 Spanish League Championships** and are arguably the two richest clubs in the sport.
 
-## Brief History of Both Clubs
+## The Founding of Both Clubs
 
+### **Real Madrid**
 
+On March 6, 1902, the Madrid Foot Ball Club is founded by a group of fans in Madrid, Spain. Later known as Real Madrid, the club would become the most successful European football (soccer) franchise of the 20th century.
 
+With its trademark blue-and-white uniforms (originally inspired by those of an English team), Madrid began to make a name for itself in Spain almost right away. From 1905 to 1907, under their first coach, Englishman Arthur Johnson, the team won three titles in a row in the Spanish League, known as La Liga. These were just the first of 29 La Liga championships through 2006 for Real Madrid, including an impressive five consecutive La Liga titles from 1986 to 1990.
+
+Real Madrid’s legendary status internationally was solidified under the leadership of **Santiago Bernabeu Yeste**, who played for the team from 1912 to 1927 and served as club president from 1943 to 1978. In 1953, Bernabeu began to stock his roster with the best players he could find from around the world, instead of just the best in Spain, beginning with Madrid’s most famous soccer icon, **Argentine star Alfredo Di Stefano**. The resulting team won the European Cup, Europe’s football championship, an unprecedented five times in a row, from 1956 through 1960. Bernabeu then switched course in the 1960s and built a team entirely of Spanish players. In 1966, Real Madrid won its sixth European cup with a team of Spanish “hippies” who rivaled the Beatles in popularity on the European continent.
+
+### **FC Barcelona**
+
+Founded in 1899 by a group of Swiss, Spanish, German and English footballers led by Joan Gamper, the club has become a symbol of Catalan culture and Catalanism, hence the motto "Més que un club" ("More than a club"). Unlike many other football clubs, the supporters own and operate Barcelona. It is the fourth-most valuable sports team in the world, worth $4.76 billion, and the world's richest football club in terms of revenue, with an annual turnover of €715.1 million.[2][3] The official Barcelona anthem is the "Cant del Barça", written by Jaume Picas and Josep Maria Espinàs.[4] Barcelona traditionally play in dark shades of blue and red stripes, hence nicknamed Blaugrana.
 
 ## Record
 
